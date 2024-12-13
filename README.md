@@ -28,8 +28,8 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/florianamette/Simple-Next-Todo-App.git
-   cd simple-next-todo-app
+   git clone https://github.com/florianamette/Simple-Next-Prisma-Todo-App.git
+   cd simple-next-prisma-todo-app
    ```
 2. Install the dependencies:
 
